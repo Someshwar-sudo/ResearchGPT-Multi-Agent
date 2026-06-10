@@ -169,4 +169,8 @@ python main.py
 * Support multiple output formats such as PDF, DOCX, and HTML
 * Implement human-in-the-loop review and approval workflows
 
+## Refrence image
+<img width="1386" height="801" alt="image" src="https://github.com/user-attachments/assets/4d48a68d-9c92-4e89-94e0-ae1c62e6b4f5" />
+
+
   
